@@ -35,6 +35,6 @@
     "@babel/plugin-proposal-decorators": "^7.10.5",
     "firebase-functions-test": "^0.2.1",
     "rimraf": "^3.0.2",
-    "shelljs": "^0.8.4"
+    "shelljs": "^0.8.5"
   }
 }
